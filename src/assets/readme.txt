@@ -1,0 +1,1 @@
+Day la noi cau hinh global noi luu tru hinh anh, audio, video, js, css de nhung vao web (nhung thu minh muon public ra ngoai)
